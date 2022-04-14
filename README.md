@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @johnphelan
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me ...
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning python/SQL/ + other data analysis tools
+- 💞️ I’m looking for a data analyst position.
+- 📫 How to reach me ->
+-     email: phelanj4@tcnj.edu
 
 <!---
 johnphelan/johnphelan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
