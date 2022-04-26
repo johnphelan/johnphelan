@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnphelan
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python/SQL/ + other data analysis tools
-- 💞️ I’m looking for a data analyst position.
+- 💞️ Open to data analyst opportunities
 - 📫 How to reach me ->
 -     email: phelanj4@tcnj.edu
 
