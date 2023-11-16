@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python/SQL/ + other data analysis tools
 - 💞️ Open to data analyst opportunities
 - 📫 How to reach me ->
--     email: phelanj4@tcnj.edu
+-     email: johnjp999@gmail.com
 
 <!---
 johnphelan/johnphelan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
