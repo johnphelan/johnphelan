@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python/SQL/ + other data analysis tools
 - 💞️ Open to data analyst opportunities
 - 📫 How to reach me ->
--     email: johnjp999@gmail.com
+-     (https://www.linkedin.com/in/johnphelan0/)
 
 <!---
 johnphelan/johnphelan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
