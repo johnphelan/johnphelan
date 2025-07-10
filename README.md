@@ -1,4 +1,4 @@
-- 📫 If you would like to connect please contact me through my Linkedin Profile: [My profile](https://www.linkedin.com/in/johnphelan0/)
+- If you would like to connect please contact me through my Linkedin Profile: [My profile](https://www.linkedin.com/in/johnphelan0/)
 
 <!---
 johnphelan/johnphelan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
